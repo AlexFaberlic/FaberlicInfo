@@ -1,0 +1,45 @@
+{
+  "videos": [
+    {
+      "id": "1rub",
+      "video_code": "1KOFNHsEB10E27Wrz6Vdf9_4tD8Idhha0",
+      "description": "Видеоинструкция как получить подарок за 1 рубль"
+    },
+    {
+      "id": "20_26",
+      "video_code": "1vWJZbz4rx9AqS6MTOXxPCSIY-_qUrFWN",
+      "description": "Видеоинструкция как получить скидку 20% или 26%"
+    },
+    {
+      "id": "order",
+      "video_code": "1QEk6W--4Atspeg9Hnv0rONTqbJf7Wxth",
+      "description": "Видеоинструкция как оформить заказ"
+    },
+    {
+      "id": "delivery",
+      "video_code": "1K-xol8pDc8VasC_VNOUrXUb8Ue_eIfvL",
+      "description": "Видеоинструкция как выбрать доставку"
+    },
+    {
+      "id": "change",
+      "video_code": "11HaWcs33o5Lv0QOh1jt0OiJEX-bnJ0ec",
+      "description": "Видеоинструкция как изменить заказ"
+    },
+    {
+      "id": "terms",
+      "video_code": "1nbxDwX8rDDi6Z-vjQt1d9dqu2xUyTw0s",
+      "description": "Видеоинструкция как узнать сроки доставки"
+    },
+    {
+      "id": "earn",
+      "video_code": "15sJe1e51z-5ZPBpnbRSLgpcCYjr_vBgc",
+      "description": "Видеоинструкция как зарабатывать с Фаберлик"
+    },
+    {
+      "id": "feedback",
+      "video_code": "1NPrModBDSiF1_q64jPu_LpZXUWYXXRHi",
+      "description": "Видеоинструкция как написать в 'Обратную связь'"
+    }
+
+  ]
+}
