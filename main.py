@@ -57,7 +57,6 @@ def send_welcome(message):
 @bot.message_handler(commands=list(responses.keys()))
 def command_handler(message):
     """Handles multiple commands in a single function"""
-    # bot.send_message(message.chat.id, responses.get(, "Команда не найдена."))
     send_video(message)
 
 def send_video(message):
