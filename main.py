@@ -88,5 +88,5 @@ def find_video_by_id(video_id):
             return video
     return None  # If not found
     
-keep_alive()#запускаем flask-сервер в отдельном потоке. Подробнее ниже...
+keep_alive()#запускаем flask-сервер в отдельном потоке
 bot.polling(non_stop=True, interval=0) #запуск бота
