@@ -1,0 +1,10 @@
+name: Trigger Replit Cron
+on:
+  schedule:
+    - cron: '*/5 * * * *' # every 5 minutes
+jobs:
+  ping-vercel:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Curl scheduled endpoint
+        run: curl https://d51ce568-be77-485e-8fb0-3e748cbe5df9-00-2vz4j9voty8tm.picard.replit.dev
